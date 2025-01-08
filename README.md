@@ -1,8 +1,5 @@
 #  Google Maps Scraper 🗺️
-A simple and customizable scraper that uses Playwright to extract data from Google Maps. This project is designed for educational purposes and can be easily tailored to your needs.
-
-📂 Check the Output:
-You can export the scraped data to Excel and CSV formats. Take a look at the google_maps_data folder to see the final results.
+The Google Maps Scraper uses Playwright to extract detailed location data from Google Maps and exports the results to Excel or CSV. It supports both single and multiple queries, making it easy to customize searches for specific locations.
 
 ## 🚀 How to Get Started:
 1. Create a virtual environment and activate it (recommended for clean setup):
